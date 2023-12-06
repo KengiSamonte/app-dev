@@ -15,7 +15,7 @@ my first repository
    - Frozen 2
    - Tangled
 ---
-     `Console.ReadLine("KenjieSamonte");``
+     `Console.ReadLine("KenjieSamonte");`
 ---
 [The Marvels](https://myflixer.ph/movies/the-marvels-2/)
    
