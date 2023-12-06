@@ -16,7 +16,9 @@ my first repository
    - Frozen 2
    - Tangled
 ---
-  `SHREK 2`
+
+`Shrek 2`
+
 ---
 [The Marvels](https://myflixer.ph/movies/the-marvels-2/)
    
